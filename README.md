@@ -1,3 +1,5 @@
+<img width="885" height="296" alt="screenshot-2026-11-21_19 59 34" src="https://github.com/user-attachments/assets/28d80c6c-5861-40cc-9b68-4dbd577509fa" />
+
 # atmq
 
 ATMQ - Artem Tsitronov's "Motivational" quotes.
